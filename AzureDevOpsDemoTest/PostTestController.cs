@@ -27,11 +27,5 @@ namespace AzureDevOpsDemoTest
             Assert.True(result > 0);
         }
 
-        [Fact]
-        public void FailTest()
-        {
-            var result = MyMathsClass.Divide(1, 3);
-            Assert.True(result > 100);
-        }
     }
 }
