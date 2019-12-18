@@ -12,6 +12,8 @@ namespace AzureDevOpsAPI
 {
     public class Program
     {
+
+        // lets test the api on azure DevOps
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
