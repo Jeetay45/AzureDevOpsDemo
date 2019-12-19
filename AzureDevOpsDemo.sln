@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureDevOpsDemoTest", "Azur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevOpsDemo", "AzureDevOpsDemo\AzureDevOpsDemo.csproj", "{6F3C6409-F851-484E-AD8C-F9CED4341E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraESApi", "SupraESApi\SupraESApi.csproj", "{3A62A193-CE45-4834-A690-6ED78E0A4826}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraESApi", "SupraESApi\SupraESApi.csproj", "{A4A89259-1B61-49AB-9D29-39C9C9270E0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{6F3C6409-F851-484E-AD8C-F9CED4341E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F3C6409-F851-484E-AD8C-F9CED4341E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F3C6409-F851-484E-AD8C-F9CED4341E45}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A62A193-CE45-4834-A690-6ED78E0A4826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A62A193-CE45-4834-A690-6ED78E0A4826}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A62A193-CE45-4834-A690-6ED78E0A4826}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A62A193-CE45-4834-A690-6ED78E0A4826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A89259-1B61-49AB-9D29-39C9C9270E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A89259-1B61-49AB-9D29-39C9C9270E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A89259-1B61-49AB-9D29-39C9C9270E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A89259-1B61-49AB-9D29-39C9C9270E0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
